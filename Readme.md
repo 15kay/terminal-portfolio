@@ -20,10 +20,8 @@ This project is a unique portfolio website designed as a **command-line interfac
  
 
 
-## Links
-
-- **Live Site:** [your-live-website-url](https://your-live-website-url.com)  
-- **Source Code:** [GitHub Repository](https://github.com/yourusername/your-repo-name)  
+## Links 
+- **Source Code:** [GitHub Repository](https://github.com/15kay/terminal-portifolio)  
 
 ## Built With
 
