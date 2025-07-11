@@ -1,13 +1,8 @@
 # Terminal-Style Portfolio Website
 
-## Table of Contents
-
 
 - <img width="1878" height="853" alt="image" src="https://github.com/user-attachments/assets/d0114c9d-d377-4aec-a114-66481e4d5ed4" />
-
- 
-- [Links](#links)  
-- [Built With](#built-with)  
+  
 
 ## Overview
 
