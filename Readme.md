@@ -3,7 +3,8 @@
 ## Table of Contents
 
 
-- <img width="1891" height="902" alt="image" src="https://github.com/user-attachments/assets/87061995-55d0-45ce-8ded-39fb1150a90b" />
+- <img width="1878" height="853" alt="image" src="https://github.com/user-attachments/assets/d0114c9d-d377-4aec-a114-66481e4d5ed4" />
+
  
 - [Links](#links)  
 - [Built With](#built-with)  
@@ -20,9 +21,9 @@ This project is a unique portfolio website designed as a **command-line interfac
 
 ## Screenshot
 
-*Add your screenshot image here*  
-Example:  
-![Portfolio Screenshot](assets\screenshots\image.png)
+<img width="1878" height="850" alt="image" src="https://github.com/user-attachments/assets/90738cfb-5305-4721-b830-24ec8165ebe7" />
+ 
+
 
 ## Links
 
