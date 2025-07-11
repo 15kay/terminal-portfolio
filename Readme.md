@@ -1,36 +1,37 @@
-# Terminal style portfolio website
+# Terminal-Style Portfolio Website
 
-## Table of contents
+## Table of Contents
 
-- [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#Built-with)
+
+- [Screenshot](assets\screenshots\image.png)  
+- [Links](#links)  
+- [Built With](#built-with)  
 
 ## Overview
 
-- This is not your typical GUI portfolio website. Instead, you can access my information via a command line interface.
-- You can type 'help' command to view all available command you can use.
-- By inputting different commands, you can learn a lot about me, including who I am, my qualifications, the projects I've worked on, my contact information, and a lot more.
-- You can use 'website' command to view my GUI portfolio website.
-- I have created this project with HTML, CSS and vanilla Javascript.
+This project is a unique portfolio website designed as a **command-line interface (CLI)** rather than a traditional graphical user interface (GUI).
+
+- Type the `help` command to see all available commands.  
+- Use different commands to learn about me — who I am, my qualifications, projects, contact info, and more.  
+- To visit my standard GUI portfolio, type the `website` command.  
+- Built with HTML, CSS, and vanilla JavaScript.  
+- Content is dynamically fetched using the Sanity.io API.
 
 ## Screenshot
 
-![](./assets/screenshots/preview_1.png)
-![](./assets/screenshots/preview_2.png)
-![](./assets/screenshots/preview_3.png)
-![](./assets/screenshots/preview_4.png)
-![](./assets/screenshots/preview_5.png)
-![](./assets/screenshots/preview_6.png)
+*Add your screenshot image here*  
+Example:  
+![Portfolio Screenshot](assets\screenshots\image.png)
 
 ## Links
 
-- Live Site URL: [https://brijenmakwanacmd.vercel.app/](https://brijenmakwanacmd.vercel.app/)
+- **Live Site:** [your-live-website-url](https://your-live-website-url.com)  
+- **Source Code:** [GitHub Repository](https://github.com/yourusername/your-repo-name)  
 
-## Built with
+## Built With
 
-- HTML
-- CSS
-- Javascript
-- Sanity.io API
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+- [JavaScript (Vanilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- [Sanity.io](https://www.sanity.io/) – Headless CMS API  
+
